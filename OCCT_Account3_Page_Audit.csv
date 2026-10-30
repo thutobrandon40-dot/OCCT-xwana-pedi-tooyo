@@ -1,0 +1,87 @@
+Dataset,PDF_Filename,PDF_Page_Number,Global_ID,Inspected,Contains_Production_Data,Batch_ID,Date,Shift,Color,Nominal_Thickness,Supervisor,QC_Inspector,Target_Boxes,Actual_Boxes,Variance,Verification_Status,Unresolved_Issues_And_Notes
+OCCT_3,OCCT_3 (August 2026).pdf,1,REC-OCCT_3-P01,YES,YES,39595,31/08/2026,C,"Q77",1.30mm,"Mailo","BETTY",180,112,-68,VERIFIED,"*Colour Change
+*No thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,2,REC-OCCT_3-P02,YES,YES,39595,31/08/2026,B,"Q77",1.30mm,"DANIEL","THATO / SENTLE",216,154,-62,VERIFIED,"No colour and thickness change at punching press - Solenoid was mis-powering & Production stopped. Breakdown electrician - Elliot was called to attend to it."
+OCCT_3,OCCT_3 (August 2026).pdf,3,REC-OCCT_3-P03,YES,YES,5175,31/08/2026,A,"210",1.60mm,"THEMBANI","KARABO",0,33,33,VERIFIED,"* No color change.
+* No thickness change."
+OCCT_3,OCCT_3 (August 2026).pdf,4,REC-OCCT_3-P04,YES,YES,29585,31/08/2026,A,"Q72",1.30mm,"THEMBANI","KARABO",236,173,-63,VERIFIED,"* Colour Change
+* No Thickness Change."
+OCCT_3,OCCT_3 (August 2026).pdf,5,REC-OCCT_3-P05,YES,YES,39595,28/08/2026,C,"Q72",1.30mm,"DANIEL","THATO / SENTLE",344,270,-74,VERIFIED,"NO Thickness change and colour change."
+OCCT_3,OCCT_3 (August 2026).pdf,6,REC-OCCT_3-P06,YES,YES,39575,28/08/2026,B,"Q14",1.30mm,"THEMBANI","KARABO",264,184,-80,VERIFIED,"colour change, No thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,7,REC-OCCT_3-P07,YES,YES,39575,28/08/2026,A,"Q14",1.30mm,"Mailo","BETTY",344,263,-81,VERIFIED,"* No colour Change
+* No thickness Change."
+OCCT_3,OCCT_3 (August 2026).pdf,8,REC-OCCT_3-P08,YES,YES,39565,27/08/2026,C,"Q72",2.50mm,"DANIEL","THATO / SENTLE",324,191,-133,VERIFIED,"* Colour change
+* Thickness Change
+* Speed 33Hz (2.50mm) 50Hz (1.30mm)
+PRODUCTION STOPPED! Breakdown at punching press"
+OCCT_3,OCCT_3 (August 2026).pdf,9,REC-OCCT_3-P09,YES,YES,39565,27/08/2026,B,"Q72",2.50mm,"THEMBANI","KARABO",288,196,-92,VERIFIED,"No solar change, No thickness change, material fall from mixing mill causing several line cuts"
+OCCT_3,OCCT_3 (August 2026).pdf,10,REC-OCCT_3-P10,YES,YES,5165,27/08/2026,A,"204",2.00mm,"Mailo","BETTY",196,153,-43,VERIFIED,"colour change, thickness change, Material fall from mixing mill causing several line cuts"
+OCCT_3,OCCT_3 (August 2026).pdf,11,REC-OCCT_3-P11,YES,YES,5165,26/09/2026,C,"204",2.00mm,"DANIEL","THATO / SENTLE",288,254,-34,VERIFIED,"* No colour change
+* No thickness change
+* Speed: 41Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,12,REC-OCCT_3-P12,YES,YES,5155,26/08/2026,B,"207",2.00mm,"THEMBANI","KARABO",288,216,-72,VERIFIED,"* Colour Change
+* NO thickness Change
+* SPEED: 40 HZ"
+OCCT_3,OCCT_3 (August 2026).pdf,13,REC-OCCT_3-P13,YES,YES,5155,26/08/2026,A,"207",2.00mm,"Mailo","BETTY",288,215,-73,VERIFIED,"No colour change, No thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,14,REC-OCCT_3-P14,YES,YES,5145,25/08/2026,C,"210",2.00mm,"DANIEL","THATO",288,216,-72,VERIFIED,"No thickness change, colour change"
+OCCT_3,OCCT_3 (August 2026).pdf,15,REC-OCCT_3-P15,YES,YES,5145,25/08/2026,B,"210",2.00mm,"THEMBANI","KARABO",288,222,-66,VERIFIED,"No colour change, NO thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,16,REC-OCCT_3-P16,YES,YES,5135,25/08/2026,A,"210",2.50mm,"Mailo","BETTY",236,190,-46,VERIFIED,"No colour change, Thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,17,REC-OCCT_3-P17,YES,YES,39555,24/08/2026,C,"Q49",2.50mm,"DANIEL","THATO",288,217,-71,VERIFIED,"No thickness change, No colour change"
+OCCT_3,OCCT_3 (August 2026).pdf,18,REC-OCCT_3-P18,YES,YES,5125,24/08/2026,B,"202",2.50mm,"THEMBANI","KARABO",288,213,-75,VERIFIED,"Color change. No thickness change. SPEED: 32Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,19,REC-OCCT_3-P19,YES,YES,5125,24/08/2026,A,"202",2.50mm,"Mailo","BETTY",216,170,-46,VERIFIED,"No color change. No thickness change. Several line cuts due to material fall from mixing mill."
+OCCT_3,OCCT_3 (August 2026).pdf,20,REC-OCCT_3-P20,YES,YES,5115,21/08/2026,C,"207",2.50mm,"THEMBANI","KARABO",288,223,-65,VERIFIED,"Colour change. No thickness change. SPEED: 33Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,21,REC-OCCT_3-P21,YES,YES,5115,21/08/2026,B,"207",2.50mm,"Mailo","BETTY",288,247,-41,VERIFIED,"*No colour change
+*No thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,22,REC-OCCT_3-P22,YES,YES,5105,21/08/2026,A,"205",2.50mm,"DANIEL","THATO / SENTLE",252,165,-87,VERIFIED,"* Colour change . Inconsistent shade
+2 No thickness change
+205 2.00mm 5105 I.R.T.O.E. This colour failed dimensional stability with the lowest reading (machine direction) being 248 - 250mm, and highest transverse direction reading of 300.50mm"
+OCCT_3,OCCT_3 (August 2026).pdf,23,REC-OCCT_3-P23,YES,YES,39515,20/08/2026,C,"CL 72",2.00mm,"THEMBANI","KARABO",288,204,-84,VERIFIED,"No colour change. Thickness change. CL 72. 200 BASIS filed dimensional stability with a minimum of 295.74. SPEED: 2.00 = 43Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,24,REC-OCCT_3-P24,YES,YES,39515,20/08/2026,B,"CL72",2.00mm,"Mailo","BETTY",288,227,-61,VERIFIED,"* No colour change * No thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,25,REC-OCCT_3-P25,YES,YES,39595,20/08/2026,A,"CL72",2.00mm,"DANIEL","THATO / SENTLE",288,259,-29,VERIFIED,"* No Colour change
+* No thickness Change
+* Speed 48 Hz
+* Experienced power cut"
+OCCT_3,OCCT_3 (August 2026).pdf,26,REC-OCCT_3-P26,YES,YES,39525,19/08/2026,C,"CL 72",2.50mm,"THEMBANI","KARABO",252,104,-148,VERIFIED,"No colour change. Thickness change. SPEED : 2.50mm 33Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,27,REC-OCCT_3-P27,YES,YES,39545,19/08/2026,B,"CL54",2.00mm,"Mailo","BETTY",288,255,-33,VERIFIED,"* No colour change
+* No thickness change
+* Line Speed : 45 Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,28,REC-OCCT_3-P28,YES,YES,39335,19/08/2026,A,"CL 12",2.00mm,"DANIEL","THATO",288,233,-55,VERIFIED,"Colour change. No thickness change. Speed 45Hz. Production stopped for 20mins - Punching press got stuck."
+OCCT_3,OCCT_3 (August 2026).pdf,29,REC-OCCT_3-P29,YES,YES,39535,18/08/2026,C,"CL 12",2.00mm,"THEMBANI","KARABO",288,222,-66,VERIFIED,"No color change. No thickness change. Speed 42Hz. Rejected box 1-12 due to dark shade and recycled then material fall from mixing mill causing several line cuts."
+OCCT_3,OCCT_3 (August 2026).pdf,30,REC-OCCT_3-P30,YES,YES,39525,18/08/2026,B,"CL 49",2.00mm,"Mailo","BETTY",200,167,-33,VERIFIED,"Colour Change. No thickness change. Material fall from mixing mill causing several line cuts."
+OCCT_3,OCCT_3 (August 2026).pdf,31,REC-OCCT_3-P31,YES,YES,39505,18/08/2026,A,"210",2.00mm,"DANIEL","SENTLE",288,241,-47,VERIFIED,"& Colour change. & No thickness change. Speed: 45 Hz. 210 2.00mm 39505 filled dimensions with a minimum of 2.99.4(machine direction)"
+OCCT_3,OCCT_3 (August 2026).pdf,32,REC-OCCT_3-P32,YES,YES,39505,17/08/2026,C,"210",2.00mm,"THEMBANI","KARABO",288,236,-52,VERIFIED,"# No colour change. # No thickness change. 210 2.00 39505 box 1-63 rejected due to light shade. 210 2.00 39505 filled dimensional stability."
+OCCT_3,OCCT_3 (August 2026).pdf,33,REC-OCCT_3-P33,YES,YES,39505,17/08/2026,B,"210",2.50mm,"Mailo","BETTY",288,245,-43,VERIFIED,"* No colour change. * thickness change. * Pallet 1 of 210 2.50 39505 rejected due to dark shade and recycled."
+OCCT_3,OCCT_3 (August 2026).pdf,34,REC-OCCT_3-P34,YES,YES,39505,17/08/2026,A,"210",2.50mm,"DANIEL","SENTLE",288,214,-74,VERIFIED,"# No colour change. # No thickness change. & slight shade variation observed. Speed: 36 Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,35,REC-OCCT_3-P35,YES,YES,39485,14/08/2026,C,"Q89",2.00mm,"Mailo","BETTY",108,81,-27,VERIFIED,"# Colour Change. # thickness change. * Extra mix was dark and different from the first mix so we changed batch and restricted the order. Q89 2.00 39485 filled dimensional stability with a minimum of 298.10 (machine direction)."
+OCCT_3,OCCT_3 (August 2026).pdf,36,REC-OCCT_3-P36,YES,YES,39465,14/08/2026,B,"Q19",1.30mm,"Mailo","SENTLE",348,277,-71,VERIFIED,"# Colour change. # thickness change. & slight shade variation observed. Speed: 41 Hz. Extra mix done. Reserved it for rec(7 boxes)."
+OCCT_3,OCCT_3 (August 2026).pdf,37,REC-OCCT_3-P37,YES,YES,39455,14/08/2026,A,"Q10",1.30mm,"THEMBANI","KARABO",336,216,-120,VERIFIED,"# Colour change. # thickness change. Speed: 50 Hz."
+OCCT_3,OCCT_3 (August 2026).pdf,38,REC-OCCT_3-P38,YES,YES,39445,13/08/2026,C,"Q05",1.30mm,"Mailo","BETTY",384,337,-47,VERIFIED,"* Colour change. * No thickness change. SPEED: 50Hz."
+OCCT_3,OCCT_3 (August 2026).pdf,39,REC-OCCT_3-P39,YES,YES,39425,13/08/2026,B,"Q46",1.30mm,"THEMBANI","THATO",384,324,-60,VERIFIED,"Colour change & No thickness change & speed 50.00Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,40,REC-OCCT_3-P40,YES,YES,39415,13/08/2026,A,"Q38",1.30mm,"THEMBANI","KARABO",304,246,-58,VERIFIED,"Colour change & No thickness change & Speed 50 Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,41,REC-OCCT_3-P41,YES,YES,39415,12/08/2026,C,"Q38",1.30mm,"Mailo","BETTY",253,243,-10,VERIFIED,"Colour change & No thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,42,REC-OCCT_3-P42,YES,YES,39405,12/08/2026,B,"Q4",1.30mm,"DANIEL","THATO",284,256,-28,VERIFIED,"Colour change & No thickness change & Speed 50.00 Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,43,REC-OCCT_3-P43,YES,YES,39395,12/08/2026,A,"Q05",1.30mm,"THEMBANI","KARABO",196,169,-27,VERIFIED,"Colour change & No thickness change & Speed 50Hz. Production stopped removing wrong mix from the silo and prepared another mix Q4."
+OCCT_3,OCCT_3 (August 2026).pdf,44,REC-OCCT_3-P44,YES,YES,39385,11/08/2026,C,"Q10",1.30mm,"Mailo","BETTY",246,229,-17,VERIFIED,"Colour change & No thickness change & Speed 50 Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,45,REC-OCCT_3-P45,YES,YES,39385,11/08/2026,B,"Q10",1.30mm,"DANIEL","THATO",304,252,-52,VERIFIED,"NO colour change & NO thickness change Speed 50Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,46,REC-OCCT_3-P46,YES,YES,39375,11/08/2026,A,"KK28",2.00mm,"THEMBANI","SENTO",126,97,-29,VERIFIED,"Colour change & thickness change & Speed 42Hz (KR28) Q10 speed 50Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,47,REC-OCCT_3-P47,YES,YES,5085,10/08/2026,C,"205",2.00mm,"Mailo","BETTY",240,186,-54,VERIFIED,"No colour change, No thickness change, Speed = 40 Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,48,REC-OCCT_3-P48,YES,YES,5075,10/08/2026,B,"204",2.00 mm,"DANIEL","THATO",180,154,-26,VERIFIED,"colour change, No thickness change, Speed 43 Hz -> 45 Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,49,REC-OCCT_3-P49,YES,YES,5055,10/08/2026,A,"202",2.00mm,"THEMBANI","SENTO",288,197,-91,VERIFIED,"Colour change & No thickness change & Speed 43 Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,50,REC-OCCT_3-P50,YES,YES,5045,07/08/2026,C,"202",2.00mm,"DANIEL","THATO",288,284,-4,VERIFIED,"No thickness and colour change"
+OCCT_3,OCCT_3 (August 2026).pdf,51,REC-OCCT_3-P51,YES,YES,5095,07/08/2026,B,"202",2.00mm,"THEMBANI","SENTO",288,271,-17,VERIFIED,"1. No colour change
+2. No thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,52,REC-OCCT_3-P52,YES,YES,9212,07/08/2026,A,"9212",2.00mm,"Mailo","BETTY",272,225,-47,VERIFIED,"# Colour change
+* No thickness change
+* SPEED - 44 Hz"
+OCCT_3,OCCT_3 (August 2026).pdf,53,REC-OCCT_3-P53,YES,YES,5025,06/08/2026,C,"207",2.50mm,"DANIEL","THATO",252,200,-52,VERIFIED,"No colour change, thickness change. Separated the first 24 boxes of 207 200 5025 due to light shade and reserved them for recycling. Replaced box 1 with number 25 following the sequence of numbers to make order of 84 boxes"
+OCCT_3,OCCT_3 (August 2026).pdf,54,REC-OCCT_3-P54,YES,YES,29355,06/08/2026,B,"KK12",2.50mm,"THEMBANI","SENTLE",288,230,-58,VERIFIED,"No thickness Change, No colour change. Frequent power cuts led to low production."
+OCCT_3,OCCT_3 (August 2026).pdf,55,REC-OCCT_3-P55,YES,YES,39355,06/08/2026,A,"KK12",2.50mm,"Mailo","BETTY",288,283,-5,VERIFIED,"No colour change, No thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,56,REC-OCCT_3-P56,YES,YES,39355,05/08/2026,C,"KK12",2.50mm,"DANIEL","THATO",288,272,-16,VERIFIED,"No thickness and colour change"
+OCCT_3,OCCT_3 (August 2026).pdf,57,REC-OCCT_3-P57,YES,YES,39355,05/08/2026,B,"KK12",2.50mm,"THEMBANI","SENTLE",216,162,-54,VERIFIED,"No colour change, No thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,58,REC-OCCT_3-P58,YES,YES,39355,05/08/2026,A,"KK12",2.50mm,"Mailo","BETTY",288,247,-41,VERIFIED,"No colour change. * No thickness change."
+OCCT_3,OCCT_3 (August 2026).pdf,59,REC-OCCT_3-P59,YES,YES,39355,04/08/2026,C,"KK12",2.50mm,"DANIEL","THATO",288,270,-18,VERIFIED,"No color and thickness change"
+OCCT_3,OCCT_3 (August 2026).pdf,60,REC-OCCT_3-P60,YES,YES,39355,04/08/2026,B,"KK12",2.50mm,"THEMBANI","SENTLE",288,234,-54,VERIFIED,"No colour change. * No thickness change."
+OCCT_3,OCCT_3 (August 2026).pdf,61,REC-OCCT_3-P61,YES,YES,39345,04/08/2026,A,"KK14",2.50mm,"Mailo","BETTY",288,223,-65,VERIFIED,"Colour change. No thickness change."
+OCCT_3,OCCT_3 (August 2026).pdf,62,REC-OCCT_3-P62,YES,YES,9212,03/08/2026,C,"Marbling",2.00mm,"DANIEL","THATO",288,221,67,VERIFIED,"No Thickness and colour change"
+OCCT_3,OCCT_3 (August 2026).pdf,63,REC-OCCT_3-P63,YES,YES,39315,03/08/2026,B,"Q77",1.30mm,"THEMBANI","SENTLE",336,225,0,VERIFIED,"* Colour change * thickness change."
+OCCT_3,OCCT_3 (August 2026).pdf,64,REC-OCCT_3-P64,YES,YES,39295,03/08/2026,A,"Q54",1.30mm,"Mailo","BETTY",338,279,-59,VERIFIED,"*Colour Change. * No thickness change."

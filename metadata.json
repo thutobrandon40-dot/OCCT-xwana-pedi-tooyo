@@ -1,0 +1,6 @@
+{
+  "name": "KFT Production Database - OCCT Extraction",
+  "description": "Production data extraction, page audit, and quality records analysis database for Kalahari Floor Tiles (KFT) OCCT_1 production runs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

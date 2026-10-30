@@ -1,0 +1,1937 @@
+[
+  {
+    "page_no": 77,
+    "date": "18/09/2026",
+    "shift": "C",
+    "batch_id": "39865",
+    "color": "KK72",
+    "thickness_nominal_mm": "2.50mm",
+    "thickness_range": "2.37-2.63",
+    "line_speed_hz": "34",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 217,
+    "box_difference_total": -71,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change. 3. Speed 34Hz.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 36,
+        "actual": 25,
+        "difference": -11
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 36,
+        "actual": 31,
+        "difference": -5
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 36,
+        "actual": 20,
+        "difference": "Changing colour"
+      },
+      {
+        "time_slot": "03:00-04:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "04:00-05:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "05:00-06:00",
+        "target": 36,
+        "actual": 25,
+        "difference": -11
+      }
+    ]
+  },
+  {
+    "page_no": 78,
+    "date": "18/09/2026",
+    "shift": "B",
+    "batch_id": "39865",
+    "color": "KK72",
+    "thickness_nominal_mm": "2.50mm",
+    "thickness_range": "2.37-2.63",
+    "line_speed_hz": "35",
+    "checked_by_qai": "KARABO",
+    "supervisor": "Mailo / DANIEL",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 203,
+    "box_difference_total": -85,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. No thickness change. 3. Speed 35Hz. 4. Several line cuts due to material falling from mixing mill.",
+    "hourly_production": [
+      {
+        "time_slot": "14:00-15:00",
+        "target": 36,
+        "actual": 23,
+        "difference": "Line cut -13"
+      },
+      {
+        "time_slot": "15:00-16:00",
+        "target": 36,
+        "actual": 20,
+        "difference": -16
+      },
+      {
+        "time_slot": "16:00-17:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "17:00-18:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "18:00-19:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "19:00-20:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "20:00-21:00",
+        "target": 36,
+        "actual": 26,
+        "difference": -10
+      },
+      {
+        "time_slot": "21:00-22:00",
+        "target": 36,
+        "actual": 26,
+        "difference": -10
+      }
+    ],
+    "incidents": [
+      {
+        "category": "Line Cut",
+        "description": "Several line cuts due to material falling from mixing mill",
+        "impact": "Reduced volume"
+      }
+    ]
+  },
+  {
+    "page_no": 79,
+    "date": "18/09/2026",
+    "shift": "A",
+    "batch_id": "39855",
+    "color": "KK05",
+    "thickness_nominal_mm": "2.50mm",
+    "thickness_range": "2.37-2.63",
+    "line_speed_hz": "35",
+    "checked_by_qai": "BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 182,
+    "box_difference_total": -106,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change. 3. Speed 35Hz. 4. Material fall from mixing mill causing several line cuts.",
+    "hourly_production": [
+      {
+        "time_slot": "06:00-07:00",
+        "target": 36,
+        "actual": 20,
+        "difference": -16
+      },
+      {
+        "time_slot": "07:00-08:00",
+        "target": 36,
+        "actual": 19,
+        "difference": "Colour change"
+      },
+      {
+        "time_slot": "08:00-09:00",
+        "target": 36,
+        "actual": 20,
+        "difference": "Line cut -16"
+      },
+      {
+        "time_slot": "09:00-10:00",
+        "target": 36,
+        "actual": 34,
+        "difference": -2
+      },
+      {
+        "time_slot": "10:00-11:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "11:00-12:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "12:00-13:00",
+        "target": 36,
+        "actual": 27,
+        "difference": -9
+      },
+      {
+        "time_slot": "13:00-14:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      }
+    ]
+  },
+  {
+    "page_no": 80,
+    "date": "17/09/2026",
+    "shift": "C",
+    "batch_id": "39855",
+    "color": "KK05",
+    "thickness_nominal_mm": "2.50mm",
+    "thickness_range": "2.37-2.63",
+    "line_speed_hz": "35",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 210,
+    "box_difference_total": -78,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change & no thickness change. 2. Inconsistent shade variation - separated light shade to another pallet 20 boxes (101-120). 3. Speed 35Hz. 4. Production stopped conductor burnt at control panel, fastened it then restarted & pulling chain at punching press was loose.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 36,
+        "actual": 30,
+        "difference": -6
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 36,
+        "actual": 30,
+        "difference": -6
+      },
+      {
+        "time_slot": "03:00-04:00",
+        "target": 36,
+        "actual": 18,
+        "difference": "prod stopped"
+      },
+      {
+        "time_slot": "04:00-05:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "05:00-06:00",
+        "target": 36,
+        "actual": 8,
+        "difference": "prod stopped"
+      }
+    ],
+    "incidents": [
+      {
+        "category": "Electrical Breakdown",
+        "description": "Conductor burnt at control panel; pulling chain loose at punching press",
+        "impact": "Line stoppage"
+      },
+      {
+        "category": "Quality Deviation",
+        "description": "Inconsistent shade variation: 20 boxes (101-120) separated to another pallet",
+        "impact": "Pallet segregation"
+      }
+    ]
+  },
+  {
+    "page_no": 81,
+    "date": "16/09/2026",
+    "shift": "A",
+    "batch_id": "39825",
+    "color": "CL18",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "checked_by_qai": "BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 220,
+    "actual_total_boxes": 169,
+    "box_difference_total": -51,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. Thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "06:00-07:00",
+        "target": 36,
+        "actual": 26,
+        "difference": -10
+      },
+      {
+        "time_slot": "07:00-08:00",
+        "target": 36,
+        "actual": 30,
+        "difference": -6
+      },
+      {
+        "time_slot": "08:00-09:00",
+        "target": 36,
+        "actual": 30,
+        "difference": -6
+      },
+      {
+        "time_slot": "09:00-10:00",
+        "target": 36,
+        "actual": 30,
+        "difference": -6
+      },
+      {
+        "time_slot": "10:00-11:00",
+        "target": 36,
+        "actual": 25,
+        "difference": "marbling 2.00 9212 colour change"
+      },
+      {
+        "time_slot": "11:00-12:00",
+        "target": 0,
+        "actual": 0,
+        "difference": "changing knives"
+      },
+      {
+        "time_slot": "13:00-14:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      }
+    ]
+  },
+  {
+    "page_no": 82,
+    "date": "15/09/2026",
+    "shift": "C",
+    "batch_id": "39835",
+    "color": "KK15",
+    "thickness_nominal_mm": "2.50mm",
+    "thickness_range": "2.37-2.63",
+    "line_speed_hz": "33/40",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 227,
+    "box_difference_total": -61,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. Thickness change. 3. Speed 2.50 (33Hz), 2.00 (40Hz). 4. Tile 2 machine direction failed dimensional stability with a minimum of 298.66 (KK15).",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 36,
+        "actual": 31,
+        "difference": -5
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 36,
+        "actual": 27,
+        "difference": -9
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 36,
+        "actual": 29,
+        "difference": -7
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "03:00-04:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "04:00-05:00",
+        "target": 36,
+        "actual": 12,
+        "difference": "changing colour"
+      },
+      {
+        "time_slot": "05:00-06:00",
+        "target": 36,
+        "actual": 34,
+        "difference": -2
+      }
+    ],
+    "incidents": [
+      {
+        "category": "Quality Failure",
+        "description": "Tile 2 machine direction failed dimensional stability test (min 298.66mm)",
+        "impact": "Quality defect log"
+      }
+    ]
+  },
+  {
+    "page_no": 83,
+    "date": "15/09/2026",
+    "shift": "B",
+    "batch_id": "39805",
+    "color": "CL15",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "checked_by_qai": "KARABO",
+    "supervisor": "THEMBANI",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 185,
+    "box_difference_total": -103,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. Thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "14:00-15:00",
+        "target": 36,
+        "actual": 16,
+        "difference": "colour + thickness change"
+      },
+      {
+        "time_slot": "15:00-16:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "16:00-17:00",
+        "target": 36,
+        "actual": 26,
+        "difference": -10
+      },
+      {
+        "time_slot": "17:00-18:00",
+        "target": 36,
+        "actual": 26,
+        "difference": -10
+      },
+      {
+        "time_slot": "18:00-19:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "19:00-20:00",
+        "target": 36,
+        "actual": 30,
+        "difference": -6
+      },
+      {
+        "time_slot": "20:00-21:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "21:00-22:00",
+        "target": 36,
+        "actual": 4,
+        "difference": "prod stopped"
+      }
+    ],
+    "incidents": [
+      {
+        "category": "Mechanical Breakdown",
+        "description": "Breakdown at punching press at 21:30",
+        "impact": "Line stoppage"
+      }
+    ]
+  },
+  {
+    "page_no": 84,
+    "date": "15/09/2026",
+    "shift": "A",
+    "batch_id": "39795",
+    "color": "CL12",
+    "thickness_nominal_mm": "2.50mm",
+    "thickness_range": "2.37-2.63",
+    "checked_by_qai": "SENTLE / BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 270,
+    "actual_total_boxes": 171,
+    "box_difference_total": -99,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. Thickness change. 3. Several line cuts.",
+    "hourly_production": [
+      {
+        "time_slot": "07:00-08:00",
+        "target": 36,
+        "actual": 19,
+        "difference": "Changing colour"
+      },
+      {
+        "time_slot": "08:00-09:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "09:00-10:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "10:00-11:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "11:00-12:00",
+        "target": 36,
+        "actual": 20,
+        "difference": -16
+      },
+      {
+        "time_slot": "12:00-13:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "13:00-14:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      }
+    ]
+  },
+  {
+    "page_no": 85,
+    "date": "14/09/2026",
+    "shift": "C",
+    "batch_id": "39795",
+    "color": "CL12",
+    "thickness_nominal_mm": "2.50mm",
+    "thickness_range": "2.37-2.63",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 108,
+    "box_difference_total": -180,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. No thickness change. 3. 180 boxes lost due to boiler breakdown. 4. Material falling at mixing mill causing several line cuts.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 36,
+        "actual": 25,
+        "difference": -11
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 36,
+        "actual": 22,
+        "difference": -14
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 36,
+        "actual": 27,
+        "difference": -9
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 36,
+        "actual": 23,
+        "difference": -13
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 36,
+        "actual": 11,
+        "difference": -25
+      }
+    ],
+    "incidents": [
+      {
+        "category": "Boiler Breakdown",
+        "description": "Production stopped - boiler pressure was down from 02:35 to 06:00",
+        "impact": "180 boxes lost (~3.5 hrs)"
+      }
+    ]
+  },
+  {
+    "page_no": 86,
+    "date": "14/09/2026",
+    "shift": "B",
+    "batch_id": "39805",
+    "color": "Q46",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "line_speed_hz": "39/33",
+    "checked_by_qai": "KARABO",
+    "supervisor": "THEMBANI",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 163,
+    "box_difference_total": -125,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. Thickness change. 3. Speed: 2.00mm: 39Hz, 2.50mm: 33Hz.",
+    "hourly_production": [
+      {
+        "time_slot": "14:00-15:00",
+        "target": 36,
+        "actual": 12,
+        "difference": "Line cut -24"
+      },
+      {
+        "time_slot": "15:00-16:00",
+        "target": 36,
+        "actual": 10,
+        "difference": "Colour & thickness change"
+      },
+      {
+        "time_slot": "16:00-17:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "17:00-18:00",
+        "target": 36,
+        "actual": 22,
+        "difference": -14
+      },
+      {
+        "time_slot": "18:00-19:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "19:00-20:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "20:00-21:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "21:00-22:00",
+        "target": 36,
+        "actual": 25,
+        "difference": -11
+      }
+    ]
+  },
+  {
+    "page_no": 87,
+    "date": "14/09/2026",
+    "shift": "A",
+    "batch_id": "39805",
+    "color": "Q46",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "checked_by_qai": "BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 43,
+    "actual_total_boxes": 24,
+    "box_difference_total": -19,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. No thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "12:00-13:00",
+        "target": 36,
+        "actual": 8,
+        "difference": "in 15 mins"
+      },
+      {
+        "time_slot": "13:00-14:00",
+        "target": 36,
+        "actual": 16,
+        "difference": "Line cuts"
+      }
+    ]
+  },
+  {
+    "page_no": 88,
+    "date": "11/09/2026",
+    "shift": "C",
+    "batch_id": "39785",
+    "color": "Q77",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "checked_by_qai": "KARABO",
+    "supervisor": "THEMBANI",
+    "target_total_boxes": 192,
+    "actual_total_boxes": 139,
+    "box_difference_total": -53,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. Thickness change. 3. Several line cuts due to material falling from mixing mill.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 48,
+        "actual": 25,
+        "difference": "Line cuts -23"
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 48,
+        "actual": 42,
+        "difference": -6
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 48,
+        "actual": 32,
+        "difference": -16
+      }
+    ],
+    "incidents": [
+      {
+        "category": "Tooling",
+        "description": "Changing knives / marbling 9254 from 02:35 onwards",
+        "impact": "Line stoppage"
+      }
+    ]
+  },
+  {
+    "page_no": 89,
+    "date": "10/09/2026",
+    "shift": "B",
+    "batch_id": "39305",
+    "color": "Q72",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "checked_by_qai": "BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 358,
+    "actual_total_boxes": 296,
+    "box_difference_total": -62,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change. 3. Material fell from mixing mill causing several line cuts.",
+    "hourly_production": [
+      {
+        "time_slot": "14:00-15:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      },
+      {
+        "time_slot": "15:00-16:00",
+        "target": 48,
+        "actual": 48,
+        "difference": 0
+      },
+      {
+        "time_slot": "16:00-17:00",
+        "target": 48,
+        "actual": 17,
+        "difference": "Colour change / line cut"
+      },
+      {
+        "time_slot": "17:00-18:00",
+        "target": 48,
+        "actual": 38,
+        "difference": -10
+      },
+      {
+        "time_slot": "18:00-19:00",
+        "target": 48,
+        "actual": 38,
+        "difference": -10
+      },
+      {
+        "time_slot": "19:00-20:00",
+        "target": 48,
+        "actual": 36,
+        "difference": "Line cut -12"
+      },
+      {
+        "time_slot": "20:00-21:00",
+        "target": 48,
+        "actual": 30,
+        "difference": -18
+      },
+      {
+        "time_slot": "21:00-22:00",
+        "target": 48,
+        "actual": 33,
+        "difference": -15
+      }
+    ]
+  },
+  {
+    "page_no": 90,
+    "date": "11/09/2026",
+    "shift": "A",
+    "batch_id": "39775",
+    "color": "Q54",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "line_speed_hz": "50.00",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL",
+    "target_total_boxes": 384,
+    "actual_total_boxes": 318,
+    "box_difference_total": -66,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change. 3. Speed 50.00 Hz.",
+    "hourly_production": [
+      {
+        "time_slot": "06:00-07:00",
+        "target": 48,
+        "actual": 36,
+        "difference": -12
+      },
+      {
+        "time_slot": "07:00-08:00",
+        "target": 48,
+        "actual": 45,
+        "difference": -3
+      },
+      {
+        "time_slot": "08:00-09:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      },
+      {
+        "time_slot": "09:00-10:00",
+        "target": 48,
+        "actual": 45,
+        "difference": -3
+      },
+      {
+        "time_slot": "10:00-11:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "11:00-12:00",
+        "target": 48,
+        "actual": 36,
+        "difference": -12
+      },
+      {
+        "time_slot": "12:00-13:00",
+        "target": 48,
+        "actual": 43,
+        "difference": -5
+      },
+      {
+        "time_slot": "13:00-14:00",
+        "target": 48,
+        "actual": 29,
+        "difference": -19
+      }
+    ]
+  },
+  {
+    "page_no": 91,
+    "date": "10/09/2026",
+    "shift": "C",
+    "batch_id": "39755",
+    "color": "Q46",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "checked_by_qai": "KARABO",
+    "supervisor": "THEMBANI",
+    "target_total_boxes": 384,
+    "actual_total_boxes": 233,
+    "box_difference_total": -151,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change. 3. Several line cuts due to material falling from mixing mill.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 48,
+        "actual": 9,
+        "difference": "Colour change"
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 48,
+        "actual": 30,
+        "difference": -18
+      },
+      {
+        "time_slot": "03:00-04:00",
+        "target": 48,
+        "actual": 24,
+        "difference": "Line cut -24"
+      },
+      {
+        "time_slot": "04:00-05:00",
+        "target": 48,
+        "actual": 27,
+        "difference": -21
+      },
+      {
+        "time_slot": "05:00-06:00",
+        "target": 48,
+        "actual": 19,
+        "difference": "Colour change"
+      }
+    ]
+  },
+  {
+    "page_no": 92,
+    "date": "10/09/2026",
+    "shift": "B",
+    "batch_id": "39725",
+    "color": "Q70",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "checked_by_qai": "BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 279,
+    "actual_total_boxes": 246,
+    "box_difference_total": -33,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "14:00-15:00",
+        "target": 28,
+        "actual": 13,
+        "difference": "Colour change"
+      },
+      {
+        "time_slot": "15:00-16:00",
+        "target": 28,
+        "actual": 26,
+        "difference": -2
+      },
+      {
+        "time_slot": "16:00-17:00",
+        "target": 28,
+        "actual": 28,
+        "difference": 0
+      },
+      {
+        "time_slot": "17:00-18:00",
+        "target": 28,
+        "actual": 30,
+        "difference": 2
+      },
+      {
+        "time_slot": "18:00-19:00",
+        "target": 28,
+        "actual": 14,
+        "difference": "Bulk DIY"
+      },
+      {
+        "time_slot": "19:00-20:00",
+        "target": 48,
+        "actual": 48,
+        "difference": 0
+      },
+      {
+        "time_slot": "20:00-21:00",
+        "target": 48,
+        "actual": 42,
+        "difference": -6
+      },
+      {
+        "time_slot": "21:00-22:00",
+        "target": 48,
+        "actual": 37,
+        "difference": "Line cut"
+      }
+    ]
+  },
+  {
+    "page_no": 93,
+    "date": "09/09/2026",
+    "shift": "A",
+    "batch_id": "39725",
+    "color": "Q70",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "line_speed_hz": "50.00",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL",
+    "target_total_boxes": 324,
+    "actual_total_boxes": 272,
+    "box_difference_total": -52,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. No thickness change. 3. Speed 50.00 Hz.",
+    "hourly_production": [
+      {
+        "time_slot": "06:00-07:00",
+        "target": 48,
+        "actual": 38,
+        "difference": -10
+      },
+      {
+        "time_slot": "07:00-08:00",
+        "target": 48,
+        "actual": 36,
+        "difference": -12
+      },
+      {
+        "time_slot": "08:00-09:00",
+        "target": 48,
+        "actual": 38,
+        "difference": -10
+      },
+      {
+        "time_slot": "09:00-10:00",
+        "target": 48,
+        "actual": 38,
+        "difference": -10
+      },
+      {
+        "time_slot": "10:00-11:00",
+        "target": 48,
+        "actual": 48,
+        "difference": 0
+      },
+      {
+        "time_slot": "11:00-12:00",
+        "target": 28,
+        "actual": 22,
+        "difference": -6
+      },
+      {
+        "time_slot": "12:00-13:00",
+        "target": 28,
+        "actual": 26,
+        "difference": -2
+      },
+      {
+        "time_slot": "13:00-14:00",
+        "target": 28,
+        "actual": 26,
+        "difference": -2
+      }
+    ]
+  },
+  {
+    "page_no": 94,
+    "date": "09/09/2026",
+    "shift": "C",
+    "batch_id": "39715",
+    "color": "Q41",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "checked_by_qai": "KARABO",
+    "supervisor": "THEMBANI",
+    "target_total_boxes": 384,
+    "actual_total_boxes": 278,
+    "box_difference_total": -106,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change. 3. Several line cuts due to material fall from mixing mill.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 48,
+        "actual": 41,
+        "difference": -7
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 48,
+        "actual": 35,
+        "difference": "Colour change"
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 48,
+        "actual": 36,
+        "difference": "Line cut -12"
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 48,
+        "actual": 32,
+        "difference": -16
+      },
+      {
+        "time_slot": "03:00-04:00",
+        "target": 48,
+        "actual": 32,
+        "difference": -16
+      },
+      {
+        "time_slot": "04:00-05:00",
+        "target": 48,
+        "actual": 30,
+        "difference": -18
+      },
+      {
+        "time_slot": "05:00-06:00",
+        "target": 48,
+        "actual": 32,
+        "difference": -16
+      }
+    ]
+  },
+  {
+    "page_no": 95,
+    "date": "09/09/2026",
+    "shift": "B",
+    "batch_id": "39715",
+    "color": "Q41",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "line_speed_hz": "50.00",
+    "checked_by_qai": "MATSHIDISO",
+    "supervisor": "Mailo",
+    "target_total_boxes": 384,
+    "actual_total_boxes": 343,
+    "box_difference_total": -41,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No thickness and colour change. 2. Speed 50.00 Hz. (QC Inspector signed as Tshidi / Matshidiso)",
+    "hourly_production": [
+      {
+        "time_slot": "15:00-16:00",
+        "target": 48,
+        "actual": 45,
+        "difference": -3
+      },
+      {
+        "time_slot": "16:00-17:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      },
+      {
+        "time_slot": "17:00-18:00",
+        "target": 48,
+        "actual": 41,
+        "difference": -7
+      },
+      {
+        "time_slot": "18:00-19:00",
+        "target": 48,
+        "actual": 42,
+        "difference": -6
+      },
+      {
+        "time_slot": "19:00-20:00",
+        "target": 48,
+        "actual": 41,
+        "difference": -7
+      },
+      {
+        "time_slot": "20:00-21:00",
+        "target": 48,
+        "actual": 42,
+        "difference": -6
+      },
+      {
+        "time_slot": "21:00-22:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      },
+      {
+        "time_slot": "22:00-23:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      }
+    ]
+  },
+  {
+    "page_no": 96,
+    "date": "09/09/2026",
+    "shift": "A",
+    "batch_id": "39705",
+    "color": "Q38",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "line_speed_hz": "50",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL",
+    "target_total_boxes": 336,
+    "actual_total_boxes": 261,
+    "box_difference_total": -75,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. Thickness change. 3. Speed 50Hz.",
+    "hourly_production": [
+      {
+        "time_slot": "06:00-07:00",
+        "target": 48,
+        "actual": 45,
+        "difference": -3
+      },
+      {
+        "time_slot": "07:00-08:00",
+        "target": 48,
+        "actual": 42,
+        "difference": -6
+      },
+      {
+        "time_slot": "08:00-09:00",
+        "target": 48,
+        "actual": 32,
+        "difference": "Changing colour / knives"
+      },
+      {
+        "time_slot": "09:00-10:00",
+        "target": 48,
+        "actual": 10,
+        "difference": "Colour change"
+      },
+      {
+        "time_slot": "10:00-11:00",
+        "target": 48,
+        "actual": 45,
+        "difference": -3
+      },
+      {
+        "time_slot": "11:00-12:00",
+        "target": 48,
+        "actual": 42,
+        "difference": -6
+      },
+      {
+        "time_slot": "12:00-13:00",
+        "target": 48,
+        "actual": 45,
+        "difference": -3
+      }
+    ]
+  },
+  {
+    "page_no": 97,
+    "date": "08/09/2026",
+    "shift": "C",
+    "batch_id": "39695",
+    "color": "Q05",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "checked_by_qai": "KARABO",
+    "supervisor": "THEMBANI",
+    "target_total_boxes": 384,
+    "actual_total_boxes": 243,
+    "box_difference_total": -141,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change. 3. Production stopped due to conveyor chain derailed.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 48,
+        "actual": 36,
+        "difference": -12
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 48,
+        "actual": 38,
+        "difference": -10
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 48,
+        "actual": 26,
+        "difference": -22
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 48,
+        "actual": 4,
+        "difference": "prod stopped"
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 48,
+        "actual": 22,
+        "difference": "Colour change"
+      },
+      {
+        "time_slot": "03:00-04:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "04:00-05:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "05:00-06:00",
+        "target": 48,
+        "actual": 37,
+        "difference": -11
+      }
+    ],
+    "incidents": [
+      {
+        "category": "Conveyor Failure",
+        "description": "Conveyor chain derailed between 01:20 and 02:10",
+        "impact": "Line stoppage"
+      }
+    ]
+  },
+  {
+    "page_no": 98,
+    "date": "08/09/2026",
+    "shift": "B",
+    "batch_id": "39685",
+    "color": "Q10",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "checked_by_qai": "BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 384,
+    "actual_total_boxes": 341,
+    "box_difference_total": -43,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "14:00-15:00",
+        "target": 48,
+        "actual": 41,
+        "difference": -7
+      },
+      {
+        "time_slot": "15:00-16:00",
+        "target": 48,
+        "actual": 48,
+        "difference": 0
+      },
+      {
+        "time_slot": "16:00-17:00",
+        "target": 48,
+        "actual": 48,
+        "difference": 0
+      },
+      {
+        "time_slot": "17:00-18:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      },
+      {
+        "time_slot": "18:00-19:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      },
+      {
+        "time_slot": "19:00-20:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "20:00-21:00",
+        "target": 48,
+        "actual": 38,
+        "difference": "Line cut"
+      },
+      {
+        "time_slot": "21:00-22:00",
+        "target": 48,
+        "actual": 38,
+        "difference": "Line cut"
+      }
+    ]
+  },
+  {
+    "page_no": 99,
+    "date": "08/09/2026",
+    "shift": "A",
+    "batch_id": "39685",
+    "color": "Q10",
+    "thickness_nominal_mm": "1.30mm",
+    "thickness_range": "1.17-1.43",
+    "line_speed_hz": "50",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL",
+    "target_total_boxes": 384,
+    "actual_total_boxes": 354,
+    "box_difference_total": -30,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. No thickness change. 3. Speed 50Hz.",
+    "hourly_production": [
+      {
+        "time_slot": "06:00-07:00",
+        "target": 48,
+        "actual": 43,
+        "difference": -5
+      },
+      {
+        "time_slot": "07:00-08:00",
+        "target": 48,
+        "actual": 45,
+        "difference": -3
+      },
+      {
+        "time_slot": "08:00-09:00",
+        "target": 48,
+        "actual": 43,
+        "difference": -5
+      },
+      {
+        "time_slot": "09:00-10:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      },
+      {
+        "time_slot": "10:00-11:00",
+        "target": 48,
+        "actual": 47,
+        "difference": -1
+      },
+      {
+        "time_slot": "11:00-12:00",
+        "target": 48,
+        "actual": 43,
+        "difference": -5
+      },
+      {
+        "time_slot": "12:00-13:00",
+        "target": 48,
+        "actual": 44,
+        "difference": -4
+      },
+      {
+        "time_slot": "13:00-14:00",
+        "target": 48,
+        "actual": 45,
+        "difference": -3
+      }
+    ]
+  },
+  {
+    "page_no": 100,
+    "date": "07/09/2026",
+    "shift": "C",
+    "batch_id": "39685",
+    "color": "Q10",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "checked_by_qai": "KARABO",
+    "supervisor": "THEMBANI",
+    "target_total_boxes": 324,
+    "actual_total_boxes": 275,
+    "box_difference_total": -49,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. Thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 36,
+        "actual": 25,
+        "difference": -11
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 36,
+        "actual": 36,
+        "difference": 0
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 36,
+        "actual": 27,
+        "difference": "thickness change"
+      },
+      {
+        "time_slot": "03:00-04:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "04:00-05:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      },
+      {
+        "time_slot": "05:00-06:00",
+        "target": 48,
+        "actual": 40,
+        "difference": -8
+      }
+    ]
+  },
+  {
+    "page_no": 101,
+    "date": "07/09/2026",
+    "shift": "B",
+    "batch_id": "39685",
+    "color": "Q10",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "checked_by_qai": "BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 113,
+    "actual_total_boxes": 91,
+    "box_difference_total": -22,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. No thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "18:00-19:00",
+        "target": 36,
+        "actual": 4,
+        "difference": "in 15 mins"
+      },
+      {
+        "time_slot": "19:00-20:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "20:00-21:00",
+        "target": 36,
+        "actual": 30,
+        "difference": -6
+      },
+      {
+        "time_slot": "21:00-22:00",
+        "target": 36,
+        "actual": 33,
+        "difference": -3
+      }
+    ]
+  },
+  {
+    "page_no": 102,
+    "date": "07/09/2026",
+    "shift": "A",
+    "batch_id": "MAINTENANCE",
+    "color": "N/A",
+    "thickness_nominal_mm": "N/A",
+    "target_total_boxes": 0,
+    "actual_total_boxes": 0,
+    "box_difference_total": 0,
+    "has_production_data": false,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "No production - Maintenance going on.",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL"
+  },
+  {
+    "page_no": 103,
+    "date": "04/09/2026",
+    "shift": "C",
+    "batch_id": "39665",
+    "color": "Q49",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "checked_by_qai": "BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 183,
+    "box_difference_total": -105,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. Thickness change. 3. Several line cuts due to material fall from mixing mill.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 36,
+        "actual": 16,
+        "difference": "Line cut"
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 36,
+        "actual": 13,
+        "difference": "start thickness change"
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 36,
+        "actual": 24,
+        "difference": -12
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 36,
+        "actual": 13,
+        "difference": "Colour change"
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "03:00-04:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "04:00-05:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "05:00-06:00",
+        "target": 36,
+        "actual": 29,
+        "difference": -7
+      }
+    ]
+  },
+  {
+    "page_no": 104,
+    "date": "04/09/2026",
+    "shift": "B",
+    "batch_id": "5205",
+    "color": "204",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "checked_by_qai": "SENTLE",
+    "supervisor": "DANIEL",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 237,
+    "box_difference_total": -51,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. No thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "14:00-15:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "15:00-16:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "16:00-17:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "17:00-18:00",
+        "target": 36,
+        "actual": 31,
+        "difference": -5
+      },
+      {
+        "time_slot": "18:00-19:00",
+        "target": 36,
+        "actual": 33,
+        "difference": -3
+      },
+      {
+        "time_slot": "19:00-20:00",
+        "target": 36,
+        "actual": 25,
+        "difference": "power cut"
+      },
+      {
+        "time_slot": "20:00-21:00",
+        "target": 36,
+        "actual": 31,
+        "difference": -5
+      },
+      {
+        "time_slot": "21:00-22:00",
+        "target": 36,
+        "actual": 25,
+        "difference": -11
+      }
+    ],
+    "incidents": [
+      {
+        "category": "Power Outage",
+        "description": "Production stopped & restarted due to power cut at 19:25",
+        "impact": "Line interruption"
+      }
+    ]
+  },
+  {
+    "page_no": 105,
+    "date": "04/09/2026",
+    "shift": "A",
+    "batch_id": "5195",
+    "color": "205",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "checked_by_qai": "KARABO",
+    "supervisor": "THEMBANI",
+    "target_total_boxes": 216,
+    "actual_total_boxes": 146,
+    "box_difference_total": -70,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. No colour change. 2. No thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "06:00-07:00",
+        "target": 36,
+        "actual": 28,
+        "difference": -8
+      },
+      {
+        "time_slot": "07:00-08:00",
+        "target": 36,
+        "actual": 21,
+        "difference": -15
+      },
+      {
+        "time_slot": "08:00-09:00",
+        "target": 36,
+        "actual": 10,
+        "difference": "Colour change"
+      },
+      {
+        "time_slot": "09:00-10:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "10:00-11:00",
+        "target": 36,
+        "actual": 20,
+        "difference": -16
+      },
+      {
+        "time_slot": "11:00-12:00",
+        "target": 36,
+        "actual": 28,
+        "difference": "Production stopped"
+      },
+      {
+        "time_slot": "13:00-14:00",
+        "target": 36,
+        "actual": 7,
+        "difference": -29
+      }
+    ]
+  },
+  {
+    "page_no": 106,
+    "date": "03/09/2026",
+    "shift": "C",
+    "batch_id": "39655",
+    "color": "KK12",
+    "thickness_nominal_mm": "2.00mm",
+    "thickness_range": "1.87-2.13",
+    "checked_by_qai": "BETTY",
+    "supervisor": "Mailo",
+    "target_total_boxes": 288,
+    "actual_total_boxes": 234,
+    "box_difference_total": -54,
+    "has_production_data": true,
+    "transcription_issues": false,
+    "verification_status": "VERIFIED",
+    "remarks": "1. Colour change. 2. No thickness change.",
+    "hourly_production": [
+      {
+        "time_slot": "22:00-23:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "23:00-00:00",
+        "target": 36,
+        "actual": 32,
+        "difference": -4
+      },
+      {
+        "time_slot": "00:00-01:00",
+        "target": 36,
+        "actual": 30,
+        "difference": -6
+      },
+      {
+        "time_slot": "01:00-02:00",
+        "target": 36,
+        "actual": 6,
+        "difference": "colour change"
+      },
+      {
+        "time_slot": "02:00-03:00",
+        "target": 36,
+        "actual": 36,
+        "difference": 0
+      },
+      {
+        "time_slot": "03:00-04:00",
+        "target": 36,
+        "actual": 28,
+        "difference": "Line cut"
+      },
+      {
+        "time_slot": "04:00-05:00",
+        "target": 36,
+        "actual": 34,
+        "difference": -2
+      },
+      {
+        "time_slot": "05:00-06:00",
+        "target": 36,
+        "actual": 30,
+        "difference": -6
+      }
+    ]
+  }
+]

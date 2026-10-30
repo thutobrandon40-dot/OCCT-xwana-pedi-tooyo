@@ -1,0 +1,32 @@
+================================================================================
+KALAHARI FLOOR TILES (PTY) LTD
+CONSOLIDATED PRODUCTION & QC DATABASE HANDOVER (OCCT_1, OCCT_2 & OCCT_3)
+================================================================================
+Total Pages Processed         : 170 (OCCT_1: 76, OCCT_2: 30, OCCT_3: 64)
+Inspection Completeness       : 100% Inspected & Accounted for
+Active Production Runs        : 167 runs
+Maintenance / Idle Shifts     : 3 shifts
+Total Boxes Produced          : 34,547 boxes
+Total Target Boxes            : 45,825 boxes
+Net Volume Variance           : -11,278 boxes
+Primary Date Span             : 03/08/2026 to 28/10/2026 (August, September & October 2026)
+Standard Form Code            : DOC NO: KFT-QC-8.5.1-OCCT-F-01 (Rev 02_24/09/2026)
+
+RECORDS SUMMARY:
+- OCCT_3 (August 2026)    : Pages 1 to 64 (03/08/2026 - 31/08/2026)
+- OCCT_2 (September 2026) : Pages 1 to 30 (03/09/2026 - 18/09/2026)
+- OCCT_1 (Sept - Oct 2026): Pages 1 to 76 (21/09/2026 - 28/10/2026)
+
+SUPERVISOR & QC STANDARDIZATION ENFORCED:
+- Mailo : Standardized supervisor name (formerly recorded as MAICO / MAILO)
+- Betty : Exclusively registered as QC Inspector (checked_by_qai); never supervisor
+- Matshidiso : Consolidated QC Inspector records (Tshidi and Matshidiso unified)
+- Daniel & Thembani : Primary shift production supervisors
+
+SIGN-OFF & OPERATIONAL AUTHORIZATION:
+- Prepared by : Duncan Akweshie — Process Analyst / Industrial Engineer
+- Reviewed by : Bosenogile Kepaletswe — Quality Assurance Manager
+- Approved by : Moitshepi Kentshitswe — Production / Factory Manager
+
+All 170 records are consolidated and structured with full traceability.
+================================================================================
